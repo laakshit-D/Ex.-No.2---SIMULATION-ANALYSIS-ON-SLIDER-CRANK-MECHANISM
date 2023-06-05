@@ -1,7 +1,6 @@
 # Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 
-
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
 ###   An engine mechanism is shown. The Crank CB = 200mm and the connecting rod BA = 600mm. In the position shown, the crankshaft has a speed of 50 rad/s and an angular acceleration of 800 rad/s2
@@ -46,7 +45,7 @@
 ## Output
 ![image](https://github.com/laakshit-D/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559976/25f963ce-e0fc-4e0c-a407-e1d5ec4627db)
 
-### Name:Laakshit D
+### Name: Laakshit D
 ### Register Number: 212222230071
 
 ## RESULT:
